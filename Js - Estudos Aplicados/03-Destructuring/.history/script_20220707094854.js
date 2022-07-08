@@ -1,1 +1,0 @@
-document.documentElement.addEventListener('mousemove', hadleMouseMove)
